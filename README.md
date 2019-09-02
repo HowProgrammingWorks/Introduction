@@ -1,2 +1,3 @@
-# Introduction
-Introduction to programming
+# Вступление в программирование
+
+Настройте среду разработки: [Exercises.ru.md](Exercises.ru.md)
