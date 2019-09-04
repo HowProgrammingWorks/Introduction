@@ -1,5 +1,3 @@
-# Exercises
-
 ## Prepare environment
 
 1. We need stable operation system, I propose to use
