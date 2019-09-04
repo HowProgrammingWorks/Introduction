@@ -9,16 +9,16 @@
 Development Environment):
   - Можно выбрать, например, тут есть список:
   https://github.com/HowProgrammingWorks/Tools/blob/master/JavaScript/README.md
-  - У меня часто спрашивают, в чем я пишу и коказываю код. Это `mc` (midnight
-  commander), не рекомендую его всем, но может епопробовать.
+  - У меня часто спрашивают, в чем я пишу и показываю код. Это `mc` (midnight
+  commander), не рекомендую его всем, но можете попробовать.
 3. Линтер (для JavaScript мы будем использовать eslint). В IDE часто встроен
 линтер или он подключается к IDE в настройках. Варианты можно найти по ссылке
 (выше).
 4. Вистема контроля версий (version control system). Мы будем использовать `git` -
 в Fedora он уже установлен из коробки. Но вы можете найти инструкции по установке
-для других операционных систем тут: https://git-scm.com/downloads for different
+для других операционных систем тут: https://git-scm.com/downloads
 5. Зарегистрируйте гитхаб аккаунт: https://github.com/join
-6. Последнюю версию браузера: Chrome, Chromium или Firefox
+6. Последнюю версию браузера: Chrome, Chromium или Firefox.
 7. Аккаунт в Telegram (желательно с именем, например `@yourName`) для того, чтоб
 можно было подписаться на каналы и группы, получать новости и задавать вопросы:
   - Канал HowProgrammingWorks https://t.me/HowProgrammingWorks
